@@ -1,0 +1,6 @@
+root=Node(10)
+root.left=Node(20)
+root.right=Node(30)
+root.left.right=Node(3)
+root.left.left=Node(6)
+root.right.left=Node(5)
